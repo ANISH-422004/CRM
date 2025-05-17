@@ -2,7 +2,7 @@
 
 This document outlines the available API endpoints, their functionalities, request/response formats, and authentication mechanisms.
 
-
+PostMan Collection : https://elements.getpostman.com/redirect?entityId=40947700-d44b0787-59cb-4c13-966d-f0de9b668bac&entityType=collection
 ---
 
 # CRM Backend API Documentation
@@ -13,7 +13,7 @@ This document outlines the available API endpoints, their functionalities, reque
 
 ## Authentication
 
-- **Note:** No authentication is currently implemented in this version. Ensure proper authentication middleware is added for production environments.
+- **Note:** No authentication is currently implemented in this version.
 
 ---
 
