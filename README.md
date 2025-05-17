@@ -19,8 +19,8 @@ This is a CRM backend built with Node.js, Express, Prisma, and integrated with G
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/crm-backend.git
-cd crm-backend
+git clone https://github.com/ANISH-422004/CRM.git
+cd CRM
 
 Install dependencies:
 npm install
